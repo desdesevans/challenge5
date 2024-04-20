@@ -1,4 +1,15 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    background: #FFFFFF;
+}
+h1 {
+    text-align: center;
+    color: #F4C2C2;
+    padding-top: 20px;
+}
+div {
+    text-align: center;
+}
+p {
+    padding: 60px;
 }
